@@ -671,6 +671,7 @@ bottom: 0;
     justify-content: center;
     margin-bottom: 50px;
     margin-top: 50px;
+    padding:0;
 }
 .allskills .bullets li{
     width: 12px;
